@@ -2,7 +2,7 @@ import discord
 from charguana import get_charset
 import random
 
-token = "NjE2MDk4ODIyNjQwMjM4NjMw.XWy0eA.iX7g5poveK4e5F6mgNscCLUNMDM"
+token = "NjE2MDk4ODIyNjQwMjM4NjMw.XWy8AQ.TtuMBJq_f6pxQFNG2Rl05IR3dAg"
 
 client = discord.Client()
 
@@ -25,17 +25,19 @@ async def on_message(message):
         pass
 
     if message.content.find("!help") != -1:
-        await message.channel.send('''>>> 
+        await message.channel.send(
+'''
+>>> Note: Use '!' before any of the commands listed below
 Commands
 -------------
-***!hello*** - Say hi to Gintoki Sensei
+***hello*** - Say hi to Gintoki Sensei
 
-***!COTD*** (Character of the day!) - Get the character of the day
+***COTD*** (Character of the day!) - Get the character of the day
 
-***!WOTD*** (Word of the day!) - Get the word of the day and link to the word pronounciation
+***WOTD*** (Word of the day!) - Get the word of the day and link to the word pronounciation
 
-***!POTD*** (Phrase of the day!) - Get the phrase of the day
+***POTD*** (Phrase of the day!) - Get the phrase of the day
 
-        ''')
+''')
 
 client.run(token)
