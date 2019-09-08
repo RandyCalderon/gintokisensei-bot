@@ -16,12 +16,13 @@ hiragana = list(get_charset('hiragana'))
 
 @client.event
 async def on_message(message):
-    message = message.lower()
     
-    if message.content.startswith("!hello") == True:
+    lowercase = message.content.lower()
+
+    if lowercase.startswith("!hello"):
         await message.channel.send("ビールとおっぱいがだいすきです！")
 
-    if message.content.startswith("!cotd") == True:
+    if lowercase.startswith("!cotd"):
         rand_num = random.randint(0, len(hiragana) - 1)
         rand_hiragana_char = hiragana[rand_num]
 
@@ -30,24 +31,20 @@ async def on_message(message):
         # TODO Let's try to make this look nicer!
         await message.channel.send(f'Character of the day: {rand_hiragana_char}\nTranslation: {translated_char}')
 
-    if message.content.startswith("!wotd") == True:
+    if lowercase.startswith("!wotd"):
         pass
 
-    if message.content.startswith("!potd") != True:
+    if lowercase.startswith("!potd"):
         pass
 
-    if message.content.startswith("!help") == True:
+    if lowercase.startswith("!help"):
 
         e = discord.Embed(description='''
-
         Commands
         -------------
         ***!hello*** - Say hi to Gintoki Sensei
-
         ***!COTD***   (Character of the day!) - Get the character of the day
-
         ***!WOTD***   (Word of the day!) - Get the word of the day and link to the word pronounciation
-
         ***!POTD***   (Phrase of the day!) - Get the phrase of the day''', colour=discord.Colour.teal())
 
         await message.channel.send(embed=e)
