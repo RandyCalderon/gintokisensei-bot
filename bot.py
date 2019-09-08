@@ -16,10 +16,12 @@ hiragana = list(get_charset('hiragana'))
 
 @client.event
 async def on_message(message):
+    message = message.lower()
+    
     if message.content.startswith("!hello") == True:
         await message.channel.send("ビールとおっぱいがだいすきです！")
 
-    if message.content.startswith("!COTD") == True:
+    if message.content.startswith("!cotd") == True:
         rand_num = random.randint(0, len(hiragana) - 1)
         rand_hiragana_char = hiragana[rand_num]
 
@@ -28,10 +30,10 @@ async def on_message(message):
         # TODO Let's try to make this look nicer!
         await message.channel.send(f'Character of the day: {rand_hiragana_char}\nTranslation: {translated_char}')
 
-    if message.content.startswith("!WOTD") == True:
+    if message.content.startswith("!wotd") == True:
         pass
 
-    if message.content.startswith("!POTD") != True:
+    if message.content.startswith("!potd") != True:
         pass
 
     if message.content.startswith("!help") == True:
