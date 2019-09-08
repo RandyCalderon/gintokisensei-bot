@@ -1,6 +1,7 @@
 import discord
 from charguana import get_charset
 import random
+import jaconv
 
 def read_token():
     with open("token.txt", "r") as token_file:
@@ -20,7 +21,12 @@ async def on_message(message):
 
     if message.content.startswith("!COTD") == True:
         rand_num = random.randint(0, len(hiragana) - 1)
-        await message.channel.send(f'Character of the day: {hiragana[rand_num]}')
+        rand_hiragana_char = hiragana[rand_num]
+
+        translated_char = jaconv.kana2alphabet(rand_hiragana_char)
+
+        # TODO Let's try to make this look nicer!
+        await message.channel.send(f'Character of the day: {rand_hiragana_char}\nTranslation: {translated_char}')
 
     if message.content.startswith("!WOTD") == True:
         pass
