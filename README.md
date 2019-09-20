@@ -8,9 +8,34 @@
 ### API Resources
 ------------------
 1. https://github.com/ssut/py-googletrans - Google translate API
-2. 
+2.
 
 
 ### Completed Resources
 -----------------------
 1.
+
+
+
+### Brainstorming
+------------------
+## GraphQL Implementation
+
+{
+  N1(Hiragana: hira) {
+    hiragana
+    meanings
+    kanji
+    resource
+  }
+}
+{
+  N2(Hiragana: hira) {
+    hiragana
+    meanings
+    kanji
+    resource
+  }
+}
+
+Sample Input: !WOTD N3
