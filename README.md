@@ -3,15 +3,14 @@
 ### Learning Resources
 -----------------------
 1. https://www.youtube.com/watch?v=xdg39s4HSJQ
-2. 
+2.
 
 ### API Resources
 ------------------
-1. https://kwboyd.gitbooks.io/japanese-api/content/routes/vocab.html - Japanese Study API (Hosted on ...)
-2. https://github.com/ssut/py-googletrans - Google translate API
+1. https://github.com/ssut/py-googletrans - Google translate API
+2. 
 
 
 ### Completed Resources
 -----------------------
-1. 
-
+1.
