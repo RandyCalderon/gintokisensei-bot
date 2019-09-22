@@ -17,7 +17,7 @@ def create_table(con, table_name, column1, column2, column3, column4):
 
     try:
 
-        cursorObj.execute(f"""CREATE TABLE {table_name}(id integer PRIMARY KEY, {column1} text,
+        cursorObj.execute(f"""CREATE TABLE {table_name}(id integer PRIMARY KEY AUTOINCREMENT, {column1} text,
         {column2} text, {column3} text, {column4} text)""")
 
         con.commit()
@@ -28,9 +28,9 @@ def create_table(con, table_name, column1, column2, column3, column4):
 
 con = get_sql_connection()
 cursorObj = con.cursor()
-
-[print(row) for row in cursorObj.fetchall()]
-
-print()
+entities = ('hiragana2', 'meaning2', 'kanji2', 'resource2')
+cursorObj.execute('INSERT INTO JLPTN1(Hiragana, Meaning, Kanji, Resource) VALUES(?, ?, ?, ?)', entities)
+cursorObj.execute('SELECT * FROM JLPTN1')
+print(cursorObj.fetchall())
 con.commit()
 con.close()

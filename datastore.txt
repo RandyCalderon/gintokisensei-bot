@@ -1,0 +1,8 @@
+*** INTEGRATE SQLALCHEMY ***
+
+1. Connect to the DB
+2. Read from the csv file
+  - store the values in variable
+3. Using the cursorObject we insert data into the table
+4. Repeat for all other tables
+5. Retrieve data using graphQL
