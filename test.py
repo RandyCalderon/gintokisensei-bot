@@ -1,10 +1,11 @@
-import sqlalchemy as db
+from sqlalchemy import create_engine
+from sqlalchemy.ext.declarative import declarative_base, DeferredReflection
+from sqlalchemy.orm import scoped_session, sessionmaker
 
 connection_string = 'sqlite:///worddatabase.db'
-engine = db.create_engine(connection_string)
-connection = engine.connect()
-metadata = db.MetaData()
-census = db.Table('JLPTN1', metadata, autoload=True, autoload_with=engine)
-
-# Print the column names
-print(census.columns.keys())
+engine = create_engine(connection_string)
+db_session = scoped_session(sessionmaker(autocommit=False,
+                                         autoflush=False,
+                                         bind=engine))
+Base = declarative_base(cls=DeferredReflection)
+Base.query = db_session.query_property()
