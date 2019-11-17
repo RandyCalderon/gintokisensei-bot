@@ -65,9 +65,115 @@
 何気ない,なにげない,casual; unconcerned; nonchalant
 はまる,嵌まる,"to fit; to get into; to go into / to be fit for (a job, etc.); to be suited for; to satisfy (conditions) / to fall into; to plunge into; to get stuck; to get caught / to be deceived; to be taken in; to fall into a trap / to be addicted to; to be deep into; to be crazy about; to be stuck on"
 隔週,かくしゅう,every other week; every two weeks
+がる,,to show signs of being; to feel; to think / to behave as if one were; to pretend; to act as if / to want; to desire; to be anxious to; to be eager to
 蜜,みつ,nectar / honey / honeydew / treacle; molasses / sorbitol (when visible as dark patches inside an apple)
 織り,おり,weave; weaving; woven item
 壕,ごう,moat; fosse; trench; ditch / underground air-raid shelter; dugout
+アクセル,,accelerator / accelerator pedal; gas pedal / Axel (figure skating jump); axel
+アプローチ,,approach / approach shot
+アラブ,,Arab
+アワー,,hour
+アンコール,,encore
+イエス,,Jesus / yes
+インターナショナル,,international
+インフォメーション,,information
+エレガント,,elegant
+エンジニア,,engineer
+オートマチック,,automatic
+オリエンテーション,,orientation
+オンライン,,online
+カクテル,,cocktail
+カット,,cut; cutting / haircut / shuffle (cards); shuffling / scene; shot (in a movie)
+カムバック,,comeback
+カルテ,,"patient's chart; clinical records / record (e.g. student, equipment maintenance, etc.)"
+ガイドブック,,guidebook
+キャッチ,,catch; catching; obtaining (e.g. information); receiving (e.g. radio transmission or phone call) / catch / shop tout; puller-in / catching (in swimming and boating); catching the water / catcher / call waiting
+キャリア,,"career / carrier (disease, signal, warship, etc.) / career government employee"
+クラブ,,nightclub / clubs (card suit) / crab / golf club
+クレーン,,crane
+グレー,,grey (gray) / gray (SI unit of absorbed dose of radiation)
+ゲスト,,guest
+コメント,,comment / (blog) comment
+コンタクト,,contact / contact lens
+コントラスト,,contrast
+コントロール,,control
+コンパス,,"pair of compasses; compass (for drawing circles, etc.) / (mariner's) compass / legs; step; gait"
+サイクル,,cycle
+サンキュー,,thank you
+サンタクロース,,Santa Claus
+シック,,chic / sick / thick
+ショー,,show
+ジャンパー,,(short) jacket; blouson; windbreaker; jumper / ski jumper; jumping event athlete / jumper lead; jumper wire
+ジャンボ,,jumbo
+ジャンル,,genre
+スチーム,,steam
+ストロー,,drinking straw / straw
+ストロボ,,stroboscope; strobe lamp; stroboscopic lamp / (camera) flash
+スプリング,,spring
+スペース,,"space (room, area, outer space)"
+スポーツカー,,sports car
+スラックス,,slacks
+セール,,sale
+セクション,,section
+セレモニー,,ceremony
+ゼリー,,jello; gelatin dessert; jelly / gel; jelly
+ソックス,,socks
+ソロ,,solo
+タイトル,,title
+タイピスト,,typist
+タイマー,,timer; clock register
+タイムリー,,timely / clutch hit; run-scoring hit; RBI hit
+タイル,,tile
+ダンプ,,dump / dump truck
+チームワーク,,teamwork
+チャイム,,chime; bell (e.g. doorbell)
+ティッシュペーパー,,tissue paper; tissue; facial tissue; facial tissues
+テレックス,,telex; teletypewriter exchange
+デコレーション,,decoration
+デッサン,,rough sketch
+デモンストレーション,,demonstration; protest / (giving a) demo; demonstration; presentation
+トーン,,tone
+トランジスタ,,electrical transistor
+ドライバー,,driver (of a vehicle) / screwdriver / driver (golf) / driver; device driver
+ナイター,,game under lights (e.g. baseball); night game
+ナプキン,,(table) napkin; serviette / sanitary napkin; sanitary pad
+ナンセンス,,nonsense
+ニュー,,new / newly purchased item
+ネガ,,(photographic) negative
+ハンガー,,(aircraft) hangar / (coat) hanger / hunger
+バー,,bar / VAR
+ファイト,,fight / fighting spirit / fight!; do your best; go for it; keep at it
+ファイル,,file
+フィルター,,filter (esp. camera)
+フェリー,,ferry
+フォーム,,foam / form
+ブーツ,,boots
+ブザー,,buzzer; personal alarm (loud buzzer to attract attention in case of attack)
+ブルー,,"blue (colour, color) / sad; down (in the dumps)"
+ベース,,base / bass
+ベストセラー,,bestseller
+ペア,,pair / pair-oared boat / pear
+ホース,,hose / horse
+ボイコット,,boycott
+ポーズ,,pose / pause
+ポイント,,point / points (of a railway); switch
+ポジション,,position
+ポンプ,,pump
+マッサージ,,massage
+モニター,,"(computer) monitor / consumer who comments on products, television programs, etc. (programmes) / program or utility that monitors a program or activity"
+ヤング,,young
+ユニーク,,unique; individual; original; unusual
+ユニフォーム,,uniform
+ライス,,rice (esp. when served on a plate)
+ラベル,,label (i.e. sticker) / label (i.e. record label)
+ランプ,,lamp; light / ramp / rump
+ルーズ,,loose (e.g. belt) / slovenly; careless; slack
+レース,,race / lace / lathe
+レッスン,,lesson
+レディー,,lady / ready
+レバー,,lever; joystick / liver
+レンジ,,range; stove; cooker / microwave oven
+レンタカー,,rental car; rent-a-car; hired auto / car rental agency; car hire agency; hire car agency
 観覧,かんらん,viewing
 私物,しぶつ,private property; personal effects
 等級,とうきゅう,grade; class; degree; rank; rating; order; points / magnitude
@@ -137,6 +243,7 @@
 あつらえる,誂える,to give an order; to place an order; to have made to order
 ねじれる,捻じれる,to twist; to wrench; to screw
 寄りかかる,よりかかる,to lean against; to recline on; to lean on / to rely on; to depend on
+ずれ,,gap; slippage
 押し寄せる,おしよせる,"to advance on; to close in; to march on; to descend on (the enemy); to move towards; to surge forward (crowd, wave of nostalgia, wave, etc.); to rush for (the door); to inundate; to overwhelm; to push aside"
 気品,きひん,elegance; refinement; grace; dignity / aroma
 記名,きめい,signature; register / to put one's name on; to sign / stamped name; typed name
@@ -236,15 +343,37 @@
 泊,はく,counter for nights of a stay
 あからさま,明白,plain; frank; candid; open; direct; straightforward; unabashed; blatant; flagrant
 あくどい,悪どい,gaudy; showy; excessive / crooked; vicious
+いざ,,now; come (now); well
 いやに,嫌に,awfully; terribly
 えい,鱝,ray (any fish of superorder Batoidea)
+おっかない,,frightening; scary / extreme; exaggerated; huge
 お宮,おみや,Shinto shrine
 お供,おとも,attendant; companion
+きっかり,,exactly; just; precisely / punctually; exactly on time
+ぐっと,,suddenly; at once; in one go; with a jerk; with a gulp / considerably; very much; a lot / firmly; with an effort; tightly; exerting pressure / completely (e.g. at a loss) / deeply (e.g. moved)
+げっそり,,being disheartened; being dejected / losing a lot of weight; becoming very thin
+しぶとい,,tenacious; tough; enduring; dogged; headstrong; stubborn; obstinate; unyielding
+すばしこい,,nimble; smart; quick
+すんなり,,slim; slender; lithe; supple / smoothly; without resistance; without trouble; without difficulty; without dissent; easily; readily
 ずぶ濡れ,ずぶぬれ,dripping wet; soaked; drenched
+ずらっと,,in a line; in a row
 そこら,其処ら,everywhere; somewhere; approximately; that area; around there
+ちやほや,,to pamper; to make a fuss of; to spoil; to fawn over
+てんで,,(not) at all; altogether; entirely
 ネジ回し,ネジまわし,screwdriver
 ひいては,延いては,not only ... but also; in addition to; consequently
+ひょっと,,possibly; perhaps; perchance / unintentionally; accidentally
+ビリ,,last on the list; at the bottom
+ふんだん,,plentiful; abundant; lavish
+ぼつぼつ,,gradually; little by little; in a breezy manner / soon; before long / here and there; scattered / spots; dots; pimples; rash
+ぼやく,,to grumble; to complain
 もろに,諸に,completely; all the way; altogether; bodily
+インターチェンジ,,interchange; service interchange
+インターフォン,,intercom; interphone
+ダブる,,"to be duplicated; to be repeated / to overlap; to fall together (of dates, etc.); to coincide / to repeat (a failed course, school year, etc.) / to make a double play / to make a double fault (in tennis)"
+ドライクリーニング,,dry cleaning
+ドライブイン,,"drive-in (bank, cinema, etc.) / roadside restaurant; rest stop"
+モーテル,,motel / drive-in love hotel
 亜科,あか,subfamily
 宛てる,あてる,to address
 尉,じょう,inspector (third highest of the four administrative ranks of the ritsuryo system) / (noh) old man / white ash (of charcoal)
@@ -366,6 +495,7 @@
 駄作,ださく,poor piece of work; rubbish; trash
 体,てい,appearance; air; condition; state; form
 退ける,しりぞける,to repel; to drive away; to repulse; to reject
+代,しろ,"substitution / material / price / margin (e.g. for stapling, etc.); area required for something / shiro (unit of land area equal to one-fiftieth of a tan; ~19.83 m.sq.)"
 たるみ,弛み,"slack; slackening; sagginess; flabbiness (skin, etc.) / dullness; letdown; depression; ennui"
 遅くとも,おそくとも,at the latest
 中ほど,なかほど,(about) middle; midway
@@ -1062,9 +1192,88 @@
 平行,へいこう,"parallelism; running parallel (to, with) / running concurrently; occurring at the same time; keeping pace with"
 省みる,かえりみる,"to reflect on (oneself, past conduct, etc.); to contemplate; to examine; to think over; to introspect"
 お使い,おつかい,errand; mission; going as envoy / messenger; bearer; errand boy; errand girl / familiar spirit
+アップ,,"increasing / upload / close-up / finishing shooting (of a film, etc.) / upswept hairstyle / being up (i.e. leading in sports) / warming up / being over; being finished"
+アマチュア,,amateur
 アルカリ,亜爾加里,alkali
+アルミ,,aluminum (Al); aluminium
+アンケート,,questionnaire; survey
+インテリ,,intellectual; egghead / intelligentsia
+インフレ,,inflation
+ウイルス,,virus / viral
+オープン,,"opening (a new store, golf course, runway, etc.) / open; frank; approachable; open-hearted / open (car, collar, tournament, etc.)"
+オレンジ,,"orange (fruit, colour)"
+カーペット,,carpet
+カメラマン,,cameraman; photographer; cinematographer
+カンニング,,cheating (on an examination); cribbing
+ガイド,,guide; tour guide; conductor; guiding; leading
+ガレージ,,garage (at house)
+クイズ,,quiz
+グラフ,,graph
+コーナー,,"corner / segment (within a radio or TV program); session; column (newspaper, etc.) / area; department; section"
+コマーシャル,,commercial (e.g. TV)
+コミュニケーション,,communication
+コンテスト,,contest
+サイズ,,size
+シート,,seat / sheet
+システム,,system
+シナリオ,,script; screenplay / scenario
+ショック,,"shock (psychological) / shock (physical, mechanical) / shock (e.g. due to lack of blood flow)"
 ジーパン,Ｇパン,jeans; dungarees
+ジャズ,,jazz
+ジャンプ,,jump
+スタジオ,,studio
+ストライキ,,strike (i.e. industrial action)
+ストレス,,stress
+スピード,,speed
+セックス,,sex; sexual intercourse / (one's) sex; gender
+センス,,"taste (in fashion, music, etc.); sense (e.g. of humour); flair"
+ソース,,sauce (esp. Worcestershire sauce) / source
+タイミング,,timing
+タイム,,time / thyme / time out (e.g. in sport)
+タイヤ,,tire; tyre
+タレント,,star (esp. television); personality / talent; skill / talent; unit of currency in ancient Greece and Israel
+タワー,,tower
 ダース,打,dozen
+ダウン,,down (opposite of up); becoming lower; being brought down; bringing down / being down (e.g. with a cold) and unable to continue (work) / down (e.g. a system); not running (e.g. servers) / download; downstream / down (feathers)
+チェンジ,,change
+チャネル,,channel
+データ,,data; datum
+デザート,,dessert / desert
+デザイン,,design
+トラブル,,trouble
+ドライ,,dry (esp. as in not wet or as in dry humour)
+ドリル,,drill bit; drill / drill (practice) / drill (Mandrillus leucophaeus)
+ニュアンス,,nuance
+ノイローゼ,,neurosis; nervous breakdown; mental problem; identity crisis; obsession
+バッジ,,badge
+バット,,"bat (in baseball, cricket, etc.) / bat (animal) / vat; tray"
+パジャマ,,pajamas; pyjamas
+パチンコ,,pachinko; mechanical gambling game superficially resembling pinball / slingshot; catapult / pistol
+パトカー,,patrol car
+パンク,,puncture; flat tyre (tire); bursting / punk
+ヒント,,hint
+ビジネス,,business
+ファン,,fan; enthusiast; lover / fan (e.g. electric) / fun
+フロント,,"front (aspect, weather, war-front, etc.) / reception (hotel, etc.); front desk / front office; team management"
+ブーム,,boom; rage; fad / boom; cross-arm
+ベスト,,best / vest
+ホール,,"hall (dance, concert, etc.) / hole / whole / dining area of a restaurant"
+ポット,,"pot (esp. teapot, coffee-pot) / vacuum bottle; thermos flask"
+マーク,,"mark; symbol; insignia; logo; label; emblem / to mark; to put a mark on / trademark / paying attention to; focusing on; watching; guarding; marking / registering a record (in sport, etc.) / Mach (OS kernel)"
+マスコミ,,mass communication; mass media
+ミセス,,Mrs
+ミュージック,,music
+ムード,,mood
+メーカー,,manufacturer; maker
+メッセージ,,message
+メディア,,media
+メロディー,,melody / chime
+ルール,,rule
+レギュラー,,"regular / regular member (e.g. of football team, etc.) / regular (petrol, gasoline)"
+レントゲン,,X-ray / roentgen (unit of ionizing radiation)
+ロープ,,rope
+ロマンチック,,romantic
+ワット,,watt
 一息,ひといき,one breath; pause; rest / one go (i.e. in a short time) / small amount of effort
 一敗,いっぱい,one defeat
 応急,おうきゅう,emergency; first-aid
@@ -1107,15 +1316,51 @@
 またがる,跨がる,to straddle; to sit astride; to mount / to extend over; to spread over; to span; to extend into
 見かける,みかける,to (happen to) see; to notice; to catch sight of
 にもかかわらず,にも拘らず,in spite of; nevertheless; although; despite; no matter the; regardless of
+あっさり,,"easily; readily; quickly; flatly (refuse) / lightly (seasoned food, applied make-up, etc.); plainly; simply"
+あべこべ,,contrary; opposite; inverse; reverse; back-to-front
+あやふや,,uncertain; vague; ambiguous
+あら,,oh; ah
 いかにも,如何にも,indeed; really; phrase indicating agreement
+オドオド,,timidly; nervously; hesitantly; trembling (with fear)
+がっしり,,firmly; solidly; sturdily; strongly; toughly
+がっちり,,solid; robust; well-built / tight; taut / shrewd; calculating; astute
+きっちり,,exactly; precisely; punctually; on the dot / closely; tightly; (fitting) perfectly / properly; without fail
+きっぱり,,clearly; plainly; distinctly; decisively; flatly; definitely; resolutely
 くすぐったい,擽ったい,ticklish / embarrassing
 こだわる,拘る,to fuss over; to be particular about / to be obsessive about; to be fixated on / to obstruct; to hinder
 ことごとく,悉く,altogether; entirely
 さっと,颯と,"quickly (esp. actions) / suddenly (esp. wind, rain, etc.)"
+さん,,Mr.; Mrs.; Miss; Ms.; -san / politeness marker
+しくじる,,to fail; to blunder; to mess up; to screw up / to be dismissed; to be fired
+しょっちゅう,,always; constantly; frequently; often
+じっくり,,deliberately; carefully; thoroughly; without rushing
+ずばり,,decisively; decidedly; boldly; once and for all; unreservedly; frankly / precisely; exactly
+ずるずる,,(dragging a large or heavy item) slowly / (falling) little by little; (slipping) gradually; (drawing back) slowly; with a slither / on and on; while putting off; slovenly; interminably / with a slurp; with a sniffle / loose; lax; inconclusive; unresolved
+ずれる,,to slide; to slip off; to get dislocated; to be out of alignment; to get dislodged; to deviate; to shift (position); to be out of sync.; to be slightly off; to be off-point
+ぞんざい,,rough; careless; slovenly; slipshod; rude; impolite
+だぶだぶ,,loose (of clothing); baggy / flabby; saggy / sloshing; slopping; overflowing / plenty (of pouring a liquid); drowning (e.g. in a sauce)
+だらけ,,"full of (e.g. mistakes); riddled with / covered all over with (blood, mud, etc.)"
 だるい,怠い,"sluggish; languid; listless; heavy (heart, legs, etc.); dull / bothersome; tiresome"
+ちょくちょく,,often; frequently; now and then; occasionally
+てっきり,,surely; certainly; without doubt
+でかい,,huge; big; gargantuan
+とんだ,,unthinkable; unimaginable; inconceivable; unexpected / terrible; awful; serious / very
+どうにか,,in some way or other; one way or another; somehow; only just; barely
+どうやら,,it seems like; it appears that / somehow or other
+バテる,,to be exhausted; to be worn out
 ひたすら,只管,intently; single‐mindedly; devotedly; solely; earnestly; with all one's heart
+びっしょり,,wet through; drenched
+ぶかぶか,,too large (clothing); baggy; loose-fitting / bulging; warping / parp; toot; blast
+ぶらぶら,,dangling heavily; swaying to and fro; swinging / strolling; rambling; roaming; wandering / idly; lazily; leisurely; aimlessly / persisting (of an illness)
+ペコペコ,,very hungry; starving; famished / fawning; bowing and scraping; being obsequious; being servile; kowtowing; bowing repeatedly; cringing / giving in; being dented
+ぼやける,,to become dim; to become blurred
 まごつく,間誤付く,to be confused; to be flustered; to be at a loss
 もがく,藻掻く,to struggle; to writhe; to wriggle; to squirm / to act franticly; to make desperate efforts
+ややこしい,,puzzling; tangled; complicated; complex
+ゆとり,,elbowroom; leeway; room; reserve; margin; allowance; latitude; time
+エアメール,,air mail
+サボる,,to be truant; to play hooky; to skip school; to skip out; to be idle; to sabotage by slowness
+ミスプリント,,misprint
 安っぽい,やすっぽい,cheap-looking; tawdry; insignificant
 もって,以て,with; by / by means of; because; in view of
 やすい,易い,easy / likely to ...; have a tendency to ... / easy to ...
@@ -1371,11 +1616,25 @@
 ございます,御座います,to be; to exist
 おまけ,お負け,freebie (e.g. with a purchase); something additional; bonus; an extra / price reduction; discount / exaggeration
 金槌,かなづち,hammer / hopeless swimmer; complete beginner at swimming; someone who sinks like a stone
+いっそ,,rather; sooner; preferably
 修行,しゅぎょう,ascetic practices / training; practice; discipline; study
+うんざり,,tedious; boring; being fed up with
+おい,,hey!; oi!; ahoy! / I; me
 お産,おさん,(giving) birth; childbirth; delivery; confinement
 お手上げ,おてあげ,being done for; giving up; being in a hopeless situation; not knowing what to do; being brought to one's knees; throwing up (one's) hands
+がっくり,,heartbroken; crestfallen; dejected; disappointed
+きちっと,,exactly; perfectly
+くっきり,,distinctly (standing out); clearly; in sharp relief; boldly
 だけ,丈,"only; just; merely; simply; no more than; nothing but; alone / as (e.g. as soon as, as much as) / worth"
+ちらっと,,at a glance; by accident
+と,,"if; when / and / with / particle used for quoting (with speech, thoughts, etc.) / promoted pawn / ?"
+なんか,,things like ...; or something like that ...
+ほっと,,feeling relieved; (sigh of) relief
 もしかして,若しかして,perhaps; possibly; maybe; by any chance; if I'm not mistaken / if; in case; in the event that
+ＯＫ,オッケー,OK
+カテゴリー,,category
+ボルト,,volt / bolt
+くらい,,approximately; about; around; or so / to (about) the extent that; (almost) enough that; so ... that ...; at least / as ... as ...; like
 意気込む,いきごむ,to be enthusiastic about; to be eager; to be keen
 一心,いっしん,one mind / wholeheartedness; one's whole heart
 押し込む,おしこむ,to push into; to cram into; to stuff into; to crowd into / to break in; to burgle; to burglarize

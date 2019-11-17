@@ -3,16 +3,19 @@ from charguana import get_charset
 import random
 import jaconv
 
+
 def read_token():
     with open("token.txt", "r") as token_file:
         lines = token_file.readlines()
         return lines[0].strip()
+
 
 token = read_token()
 
 client = discord.Client()
 
 hiragana = list(get_charset('hiragana'))
+
 
 @client.event
 async def on_message(message):
