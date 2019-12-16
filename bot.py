@@ -2,7 +2,26 @@ import discord
 from charguana import get_charset
 import random
 import jaconv
+import sqlite3
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy.ext.declarative import declarative_base
+from db.dbhelper import Word
 
+
+def get_db_connection():
+    engine = create_engine('sqlite:///C:\\Users\\mishr\\Documents\\Gintoki Sensei Bot\\gintokisensei-bot\\db\\wordlist.db')
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    return session
+
+# temporary method #
+def query_db(id):
+    session = get_db_connection()
+    word = session.query(Word).filter_by(id=id).first()
+
+    return word
 
 def read_token():
     with open("token.txt", "r") as token_file:
@@ -35,7 +54,10 @@ async def on_message(message):
         await message.channel.send(f'Character of the day: {rand_hiragana_char}\nTranslation: {translated_char}')
 
     if message.content.startswith("!wotd"):
-        pass
+        rand_num = random.randint(1, 3035)
+        word = query_db(rand_num)
+
+        await message.channel.send(f"Hiragana: {word.hiragana}\nKatakana: {word.katakana}\nKanji: {word.kanji}\nMeaning: {word.meaning}\n")
 
     if message.content.startswith("!potd"):
         pass
